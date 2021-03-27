@@ -1,0 +1,11 @@
+Các bước thực hiện huấn luyện mạng yolo:
+
+Bước 1: tải các file dữ liệu vào cùng 1 folder trên google driver
+	database.zip
+	file generate_test.py
+ 	file generate_train.py
+	file yolov4-tiny.cfg
+Bước 2: Chạy từng phần trong file 
+	training_yolo.ipynb
+
+Bước 3: Sau khi huấn luyện xong tải bộ trọng số đã huấn luyện về máy và test thử 
